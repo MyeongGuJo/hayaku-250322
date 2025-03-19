@@ -1,4 +1,4 @@
 # hayaku-250322
 hands-on diffusion model in HAYAKU conference
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MyeongGuJo/hayaku-250322/blob/main/h.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MyeongGuJo/hayaku-250322/blob/main/hayaku-diffusion.ipynb)
